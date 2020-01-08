@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC149A", "ABC149\ABC149A.csproj", "{FB9E864F-56A3-4F32-AEA4-3E00D7561DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC149B", "ABC149B\ABC149B.csproj", "{E4F1687E-FFBC-4F98-B601-48B373FC0764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9E864F-56A3-4F32-AEA4-3E00D7561DCB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FB9E864F-56A3-4F32-AEA4-3E00D7561DCB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FB9E864F-56A3-4F32-AEA4-3E00D7561DCB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FB9E864F-56A3-4F32-AEA4-3E00D7561DCB}.Release|anycpu.Build.0 = Release|anycpu
+		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
