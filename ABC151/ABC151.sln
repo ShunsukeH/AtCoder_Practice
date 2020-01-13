@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC151A", "ABC151A\ABC151A.csproj", "{E6A297A1-C645-405C-9963-3D9254597ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC151B", "ABC151B\ABC151B.csproj", "{9DFC7B6C-19D7-489D-A88C-6845F3D90BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC151C", "ABC151C\ABC151C.csproj", "{2348D34A-0E08-435C-8E5E-57A48AB3EA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A297A1-C645-405C-9963-3D9254597ED6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E6A297A1-C645-405C-9963-3D9254597ED6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E6A297A1-C645-405C-9963-3D9254597ED6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E6A297A1-C645-405C-9963-3D9254597ED6}.Release|anycpu.Build.0 = Release|anycpu
+		{9DFC7B6C-19D7-489D-A88C-6845F3D90BE9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9DFC7B6C-19D7-489D-A88C-6845F3D90BE9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9DFC7B6C-19D7-489D-A88C-6845F3D90BE9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9DFC7B6C-19D7-489D-A88C-6845F3D90BE9}.Release|anycpu.Build.0 = Release|anycpu
+		{2348D34A-0E08-435C-8E5E-57A48AB3EA06}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2348D34A-0E08-435C-8E5E-57A48AB3EA06}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2348D34A-0E08-435C-8E5E-57A48AB3EA06}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2348D34A-0E08-435C-8E5E-57A48AB3EA06}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
