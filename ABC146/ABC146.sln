@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC146A", "ABC146A\ABC146A.csproj", "{F48B3B07-A843-4166-88D0-59C46E0C4F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC146B", "ABC146B\ABC146B.csproj", "{D0CC2B46-D9F9-41CA-A98A-9D4FB3C02AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC146C", "ABC146C\ABC146C.csproj", "{BAB5F469-47BA-45B2-A632-949FAC76317B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48B3B07-A843-4166-88D0-59C46E0C4F3F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F48B3B07-A843-4166-88D0-59C46E0C4F3F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F48B3B07-A843-4166-88D0-59C46E0C4F3F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F48B3B07-A843-4166-88D0-59C46E0C4F3F}.Release|anycpu.Build.0 = Release|anycpu
+		{D0CC2B46-D9F9-41CA-A98A-9D4FB3C02AA0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D0CC2B46-D9F9-41CA-A98A-9D4FB3C02AA0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D0CC2B46-D9F9-41CA-A98A-9D4FB3C02AA0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D0CC2B46-D9F9-41CA-A98A-9D4FB3C02AA0}.Release|anycpu.Build.0 = Release|anycpu
+		{BAB5F469-47BA-45B2-A632-949FAC76317B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BAB5F469-47BA-45B2-A632-949FAC76317B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BAB5F469-47BA-45B2-A632-949FAC76317B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BAB5F469-47BA-45B2-A632-949FAC76317B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
