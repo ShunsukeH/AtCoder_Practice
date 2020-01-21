@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC150A", "ABC150A\ABC150A.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC150B", "ABC150B\ABC150B.csproj", "{35C9EB5F-F17A-47CF-96FA-2DC6EB9B2D06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC150C", "ABC150C\ABC150C.csproj", "{62DB3F0D-9577-402E-B814-6055E718A825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{35C9EB5F-F17A-47CF-96FA-2DC6EB9B2D06}.Debug|anycpu.Build.0 = Debug|anycpu
 		{35C9EB5F-F17A-47CF-96FA-2DC6EB9B2D06}.Release|anycpu.ActiveCfg = Release|anycpu
 		{35C9EB5F-F17A-47CF-96FA-2DC6EB9B2D06}.Release|anycpu.Build.0 = Release|anycpu
+		{62DB3F0D-9577-402E-B814-6055E718A825}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{62DB3F0D-9577-402E-B814-6055E718A825}.Debug|anycpu.Build.0 = Debug|anycpu
+		{62DB3F0D-9577-402E-B814-6055E718A825}.Release|anycpu.ActiveCfg = Release|anycpu
+		{62DB3F0D-9577-402E-B814-6055E718A825}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
