@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC144A", "ABC144A\ABC144A.csproj", "{AC56E40F-35AE-45B8-BC96-26A3579296D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC144B", "ABC144B\ABC144B.csproj", "{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC56E40F-35AE-45B8-BC96-26A3579296D8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AC56E40F-35AE-45B8-BC96-26A3579296D8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AC56E40F-35AE-45B8-BC96-26A3579296D8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AC56E40F-35AE-45B8-BC96-26A3579296D8}.Release|anycpu.Build.0 = Release|anycpu
+		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
