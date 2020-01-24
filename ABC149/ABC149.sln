@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC149A", "ABC149\ABC149A.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC149B", "ABC149B\ABC149B.csproj", "{E4F1687E-FFBC-4F98-B601-48B373FC0764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC149C", "ABC149C\ABC149C.csproj", "{65A30EB2-1D53-4C35-B088-F2A099A26217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Debug|anycpu.Build.0 = Debug|anycpu
 		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Release|anycpu.ActiveCfg = Release|anycpu
 		{E4F1687E-FFBC-4F98-B601-48B373FC0764}.Release|anycpu.Build.0 = Release|anycpu
+		{65A30EB2-1D53-4C35-B088-F2A099A26217}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{65A30EB2-1D53-4C35-B088-F2A099A26217}.Debug|anycpu.Build.0 = Debug|anycpu
+		{65A30EB2-1D53-4C35-B088-F2A099A26217}.Release|anycpu.ActiveCfg = Release|anycpu
+		{65A30EB2-1D53-4C35-B088-F2A099A26217}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
