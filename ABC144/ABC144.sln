@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC144A", "ABC144A\ABC144A.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC144B", "ABC144B\ABC144B.csproj", "{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC144C", "ABC144C\ABC144C.csproj", "{F2D56949-F2BE-47AA-92F7-D755DA4AA179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Debug|anycpu.Build.0 = Debug|anycpu
 		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Release|anycpu.ActiveCfg = Release|anycpu
 		{EB6DEEA5-EE7A-4374-9BFF-D897CFEEAA33}.Release|anycpu.Build.0 = Release|anycpu
+		{F2D56949-F2BE-47AA-92F7-D755DA4AA179}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F2D56949-F2BE-47AA-92F7-D755DA4AA179}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F2D56949-F2BE-47AA-92F7-D755DA4AA179}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F2D56949-F2BE-47AA-92F7-D755DA4AA179}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
