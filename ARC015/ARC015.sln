@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARC015B", "ARC015B\ARC015B.csproj", "{4EDF4601-B8F1-4F0E-B6A3-268E9A47833B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARC015A", "ARC015A\ARC015A.csproj", "{4E9D5B94-96E6-4C06-A51D-023538CB9E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDF4601-B8F1-4F0E-B6A3-268E9A47833B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4EDF4601-B8F1-4F0E-B6A3-268E9A47833B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4EDF4601-B8F1-4F0E-B6A3-268E9A47833B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4EDF4601-B8F1-4F0E-B6A3-268E9A47833B}.Release|anycpu.Build.0 = Release|anycpu
+		{4E9D5B94-96E6-4C06-A51D-023538CB9E60}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4E9D5B94-96E6-4C06-A51D-023538CB9E60}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4E9D5B94-96E6-4C06-A51D-023538CB9E60}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4E9D5B94-96E6-4C06-A51D-023538CB9E60}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
