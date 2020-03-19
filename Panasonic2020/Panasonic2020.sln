@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panasonic2020A", "Panasonic2020A\Panasonic2020A.csproj", "{A84F5A4E-5AC0-4310-BBA0-EA434E828EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panasonic2020B", "Panasonic2020B\Panasonic2020B.csproj", "{C3C0C1A6-3DC6-46AB-8290-784E52B56BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panasonic2020C", "Panasonic2020C\Panasonic2020C.csproj", "{3ED39410-5637-48A1-8103-EEA671D2FEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84F5A4E-5AC0-4310-BBA0-EA434E828EF0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A84F5A4E-5AC0-4310-BBA0-EA434E828EF0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A84F5A4E-5AC0-4310-BBA0-EA434E828EF0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A84F5A4E-5AC0-4310-BBA0-EA434E828EF0}.Release|anycpu.Build.0 = Release|anycpu
+		{C3C0C1A6-3DC6-46AB-8290-784E52B56BA6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C3C0C1A6-3DC6-46AB-8290-784E52B56BA6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C3C0C1A6-3DC6-46AB-8290-784E52B56BA6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C3C0C1A6-3DC6-46AB-8290-784E52B56BA6}.Release|anycpu.Build.0 = Release|anycpu
+		{3ED39410-5637-48A1-8103-EEA671D2FEAF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3ED39410-5637-48A1-8103-EEA671D2FEAF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3ED39410-5637-48A1-8103-EEA671D2FEAF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3ED39410-5637-48A1-8103-EEA671D2FEAF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
